@@ -1,4 +1,4 @@
-# NextJS - Typescript - MDX - Blog
+# NextJS - Typescript - MDX - Blog -
 
 A Next.js starter for your next blog or personal site. Built with:
 
